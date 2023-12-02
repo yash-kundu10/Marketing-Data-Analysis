@@ -22,11 +22,11 @@
  
     b) Relationship - Predictor and Response:-
     
-      i)  Find the relationship between Sales and TV.
+          i)  Find the relationship between Sales and TV.
     
-      ii) Find the relationship between Sales and Radio.
+          ii) Find the relationship between Sales and Radio.
     
-      iii) Find the relationship between Sales and Newspaper.
+          iii) Find the relationship between Sales and Newspaper.
    
     c) Data Normalization. 
 
